@@ -133,6 +133,18 @@ Gives users appropriate actions based on the situation.
 
 Enables stronger escalation when multiple risk indicators appear.
 
+## Interface Snapshots
+
+<img width="1600" height="731" alt="image" src="https://github.com/user-attachments/assets/5a7e82c7-d4db-4484-83b0-c451b9308c55" />
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/3dfa56be-c2ab-426c-9800-4750c7095d31" />
+<img width="1600" height="866" alt="image" src="https://github.com/user-attachments/assets/6124416d-01f3-4105-ab08-02a4029f520d" />
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/b5c503bb-f093-4b8e-84fa-cf0fb48cd07f" />
+<img width="1600" height="840" alt="image" src="https://github.com/user-attachments/assets/02598be7-9cac-4d3c-90a9-e5453398b2d1" />
+<img width="1600" height="865" alt="image" src="https://github.com/user-attachments/assets/70ee96be-93a3-489c-8dba-473f7efefd15" />
+<img width="1600" height="597" alt="image" src="https://github.com/user-attachments/assets/d7682333-100b-4db2-a6bc-5af74dc09121" />
+
+
+
 ## Privacy Dashboard
 
 Privacy is integrated into the safety workflow through consent-based and
