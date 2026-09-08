@@ -1,0 +1,9 @@
+[2026-09-08T11:17:56.160Z] === STARTING VITE DEV SERVER ===
+[2026-09-08T11:17:56.170Z] Node version: v24.18.0
+[2026-09-08T11:17:56.173Z] CWD: C:\Users\tiwar\OneDrive\Desktop\muj\SuRaksha Ai\mind-my-safety-ai-main\mind-my-safety-ai-main
+[2026-09-08T11:17:56.180Z] Importing vite...
+[2026-09-08T11:17:56.556Z] Vite imported. Version: 8.2.0
+[2026-09-08T11:17:56.559Z] Creating server...
+[2026-09-08T11:18:04.555Z] Server created. Now listening...
+[2026-09-08T11:18:04.631Z] Server.listen() returned.
+[2026-09-08T11:18:04.635Z] URLs printed. Server should be running.
